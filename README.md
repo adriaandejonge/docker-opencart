@@ -1,5 +1,4 @@
-# opencart
-PoC with OpenCart
+# PoC with OpenCart
 
 To start:
 
